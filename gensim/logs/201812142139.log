@@ -1,0 +1,2 @@
+2018-12-14 21:39:10,952 - tfidfmodel.py[line:333] - WARNING: constructor received both corpus and explicit inverse document frequencies; ignoring the corpus
+2018-12-14 21:40:38,288 - tfidfmodel.py[line:333] - WARNING: constructor received both corpus and explicit inverse document frequencies; ignoring the corpus
